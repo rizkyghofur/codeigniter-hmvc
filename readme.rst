@@ -1,34 +1,30 @@
 *******************
-What is CodeIgniter
+Apa itu CodeIgniter
 *******************
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+CodeIgniter atau CI merupakan salah satu framework PHP open source yang handal dan populer di kalangan developer web,
+digunakan untuk membangun aplikasi web. Dengan menggunakan CodeIgniter, proses pengembangan web dapat dengan cepat
+diselesaikan. Seorang developer web tidak perlu lagi menghabiskan waktu untuk menulis kode perintah program dari awal karena
+CodeIgniter telah menyediakan berbagai macam library dan fungsi-fungsi umum yang dibutuhkan dan siap digunakan oleh developer
+untuk mempersingkat waktu pengerjaan sebuah aplikasi web.
 
 ************
-What is HMVC
+Apa itu HMVC
 ************
 
-HMVC stands for Hierarchical Model View Controller application design pattern which makes your application modular. It
-give you chance to separate the controller, model and view in to some module so you can maintenance or improve the application easily.
+CodeIgniter HMVC merupakan teknik modular yang memisahkan sistem berdasarkan modul permodul, 
+dimana setiap modul akan memiliki controller, model dan view masing-masing. 
+Keuntungan menggunakan teknik ini adalah memudahkan pengerjaan, 
+perawatan dan pembagian tugas di dalam kerja tim.
 
 *******************
-Server Requirements
+Kebutuhan Server
 *******************
 
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+PHP versi 5.6 atau yang terbaru direkomendasikan.
 
 ************
-Installation
+Instalasi
 ************
-- Default CodeIgniter installation: https://codeigniter.com/user_guide/installation/index.html
-- Via Composer : composer create-project alzen8work/ci_hmvc
+- Instalasi CodeIgniter standar: https://codeigniter.com/user_guide/installation/index.html
+- Via Composer : composer create-project rizkyghofur/codeigniter_hmvc
